@@ -1,5 +1,5 @@
-# State machines inferred by abstraction based minimization algorithm vs Deep Specification Mining Experiments
-This folder contains the experimental results from [DSM](https://github.com/kanghj/DSM) technique. The sub-folders are categorized as follows:
+# State machines inferred by abstraction-based minimization algorithm vs Deep Specification Mining Experiments
+This folder contains the experimental results from [DSM](https://github.com/kanghj/DSM) technique and abstraction-based minimization technique. The sub-folders are categorized as follows:
 - Sub-folders with "input" prefix are traces to test the FSM inferred by the DSM
 - Sub-folders with "real" prefix are the FSM inferred by the DSM on Prius traces
 - Sub-folders with "sim" prefix are the FSM inferred by the DSM on Simulation traces
